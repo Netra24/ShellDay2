@@ -1,2 +1,2 @@
 # ShellDay2
-Connect git repo
+Connect git repo to jenkins
